@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>موقف الموبايلات</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>موقف الموبايلات</h1>
+  <p>أحدث الأجهزة | توصيل سريع | دفع عبر التطبيقات البنكية</p>
+</header>
+
+<section class="banner">
+  <h2>تسوق الآن أفضل الموبايلات بأرخص الأسعار!</h2>
+</section>
+
+<section class="products">
+  <h2>منتجاتنا</h2>
+  <div class="product-card">
+    <img src="images/mobile1.png" alt="موبايل 1">
+    <h3>موبايل سامسونج A14</h3>
+    <p>السعر: 150,000 SDG</p>
+    <a href="https://wa.me/24991xxxxxxx" class="btn">اطلب عبر واتساب</a>
+  </div>
+
+  <div class="product-card">
+    <img src="images/mobile2.png" alt="موبايل 2">
+    <h3>موبايل شاومي Redmi 12</h3>
+    <p>السعر: 135,000 SDG</p>
+    <a href="https://wa.me/24991xxxxxxx" class="btn">اطلب عبر واتساب</a>
+  </div>
+</section>
+
+<section class="contact">
+  <h2>تواصل معنا</h2>
+  <p>الهاتف: 09xxxxxxxx</p>
+  <p>الإيميل: your-email@example.com</p>
+  <p>الدفع عبر تطبيقات بنكك، الادخار، الخرطوم...</p>
+</section>
+
+<footer>
+  <p>© 2025 موقف الموبايلات. جميع الحقوق محفوظة.</p>
+</footer>
+
+</body>
+</html>
